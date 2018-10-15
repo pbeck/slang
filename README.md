@@ -1,3 +1,5 @@
+**Note:** as of October 2018 this plugin is no longer actively maintained
+
 # slang
 
 Simple Language twig plugin for Craft templates
